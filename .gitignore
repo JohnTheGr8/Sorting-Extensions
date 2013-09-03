@@ -1,0 +1,9 @@
+# Core
+SortingExtensions/bin
+SortingExtensions/obj
+# Example
+SortingExtensions.Example/bin
+SortingExtensions.Example/obj
+# Tests
+SortingExtensions.Tests/bin
+SortingExtensions.Tests/obj

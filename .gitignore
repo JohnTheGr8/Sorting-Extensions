@@ -2,8 +2,8 @@
 SortingExtensions/bin
 SortingExtensions/obj
 # Example
-SortingExtensions.Example/bin
-SortingExtensions.Example/obj
+SortingExtensions.Examples/bin
+SortingExtensions.Examples/obj
 # Tests
 SortingExtensions.Tests/bin
 SortingExtensions.Tests/obj

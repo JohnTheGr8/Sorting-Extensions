@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingExtensions.Tests", "SortingExtensions.Tests\SortingExtensions.Tests.csproj", "{901E2157-17E5-4C36-8F97-D90D9289C36F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingExtensions", "SortingExtensions\SortingExtensions.csproj", "{B1AEA082-49A4-4E0A-AEF8-46583835E669}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingExtensions.Examples", "SortingExtensions.Examples\SortingExtensions.Examples.csproj", "{2EA890CD-E1D0-4ACF-9FB1-C464CADA0A2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{901E2157-17E5-4C36-8F97-D90D9289C36F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901E2157-17E5-4C36-8F97-D90D9289C36F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901E2157-17E5-4C36-8F97-D90D9289C36F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901E2157-17E5-4C36-8F97-D90D9289C36F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1AEA082-49A4-4E0A-AEF8-46583835E669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1AEA082-49A4-4E0A-AEF8-46583835E669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1AEA082-49A4-4E0A-AEF8-46583835E669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1AEA082-49A4-4E0A-AEF8-46583835E669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EA890CD-E1D0-4ACF-9FB1-C464CADA0A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA890CD-E1D0-4ACF-9FB1-C464CADA0A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA890CD-E1D0-4ACF-9FB1-C464CADA0A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA890CD-E1D0-4ACF-9FB1-C464CADA0A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

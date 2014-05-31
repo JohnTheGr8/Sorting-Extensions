@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ewwijwj8giofxmsq)](https://ci.appveyor.com/project/JohnTheGr8/sorting-extensions)
 #### About Sorting Extensions
 
 A collection of C# extensions that implement some cool sorting algorithms, written for fun.
